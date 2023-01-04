@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ### Welcome to my profile ✨
 
 - 😄 I really like to learn.
-- :computer: I'm currently interning as technical in development at Escola Em Movimento.
 - :books: I'm studying React, Node and React Native, but with focus in front-end.
 - :wink: I'm showing up to help in whatever it takes.
 
