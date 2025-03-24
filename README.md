@@ -1,26 +1,25 @@
-<!--
-**natanhermes/natanhermes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 E aí!
 
-Here are some ideas to get you started:
+- Caiu aqui de paraquedas? Te contarei algumas curiosidades sobre mim. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Informações Públicas
 
-# Natã Hermes
+Meu nome é **Natã Hermes** (também conhecido(a) como **madruuuga**). Atualmente, moro em **Natal/RN - Brasil** e meu objetivo é contribuir com meus conhecimentos onde quer que esteja inserido. 🚀
+
+No meu tempo livre, gosto de praticar participar de comunidades de programação, onde aprendo e compartilho conhecimento sobre diversos tópicos, além de ficar por dentro das notícias da área. O que me chama mais atenção é a criação de design system, onde tenho como objetivo, não tão distante, de criar minha própria biblioteca UI.
+
+## 📝 Informações Detalhadas
+
+- 👤 **Nome:** Natã Hermes 
+- 🎂 **Idade:** 28   
+- 📍 **Localização:** Natal/RN, Brasil
+- 💻 **Stack:** Javascript/Typescript, React, React Native, Node, Jest
+- 📚 **Aprendizado Atual:** Go  
+- 🎓 **Formação:** Acadêmico em Análise e Desenvolvimento de sistemas
+
+## 😎 Curiosidades sobre Mim
+
+- Acredito no poder da colaboração e estou sempre disposto(a) a ajudar.   
+- Tenho experiência em projetos tanto com aplicativos para desktop quanto aplicativos web, mobile. Também possuo experiências com criação de servidores, automação de fluxos para publicação e criação de ambientes para testes.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanhermes/)](https://www.linkedin.com/in/natanhermes/)
-
-### Welcome to my profile ✨
-
-- 😄 I really like to learn.
-- :books: I'm studying React, Node and React Native, but with focus in front-end.
-- :wink: I'm showing up to help in whatever it takes.
-
-### Keep coding :rocket:
