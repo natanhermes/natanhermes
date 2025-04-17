@@ -4,7 +4,7 @@
 
 ## 🌟 Informações Públicas
 
-Meu nome é **Natã Hermes** (também conhecido(a) como **madruuuga**). Atualmente, moro em **Natal/RN - Brasil** e meu objetivo é contribuir com meus conhecimentos onde quer que esteja inserido. 🚀
+Meu nome é **Natã Hermes** (também conhecido como **madruuuga**). Atualmente, moro em **Natal/RN - Brasil** e meu objetivo é contribuir com meus conhecimentos onde quer que esteja inserido. 🚀
 
 No meu tempo livre, gosto de praticar participar de comunidades de programação, onde aprendo e compartilho conhecimento sobre diversos tópicos, além de ficar por dentro das notícias da área. O que me chama mais atenção é a criação de design system, onde tenho como objetivo, não tão distante, de criar minha própria biblioteca UI.
 
