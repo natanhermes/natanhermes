@@ -13,13 +13,15 @@ No meu tempo livre, gosto de praticar participar de comunidades de programação
 - 👤 **Nome:** Natã Hermes 
 - 🎂 **Idade:** 28   
 - 📍 **Localização:** Natal/RN, Brasil
-- 💻 **Stack:** Javascript/Typescript, React, React Native, Node, Jest
-- 📚 **Aprendizado Atual:** Go  
+- 💻 **Stack:** Javascript/Typescript, React, React Native, Next 13+, Angular, Node, Jest
+- 📚 **Aprendizado Atual:** Go
 - 🎓 **Formação:** Acadêmico em Análise e Desenvolvimento de sistemas
 
 ## 😎 Curiosidades sobre Mim
 
-- Acredito no poder da colaboração e estou sempre disposto(a) a ajudar.   
-- Tenho experiência em projetos tanto com aplicativos para desktop quanto aplicativos web, mobile. Também possuo experiências com criação de servidores, automação de fluxos para publicação e criação de ambientes para testes.
+- Acredito no poder da colaboração e estou sempre disposto(a) a ajudar.
+- Autônomo e autoditada, sempre atento aos detalhes e na experiência do usuário.
+- Tenho 4 anos de experiência em desenvolvimento web com projetos feitos para desktop usando electron, aplicações web usando React, Angular e Next, mobile usando React Native.
+- Também possuo experiências com criação de servidores VPS, automação de fluxos para publicação e criação de ambientes para testes.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanhermes/)](https://www.linkedin.com/in/natanhermes/)
